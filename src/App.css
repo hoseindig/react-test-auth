@@ -16,6 +16,7 @@ body,#root {
   direction: rtl;
   background-color: #282c34;
   height: 100vh;
+  overflow-y: hidden;
 }
 .App-header {
   background-color: #282c34;
